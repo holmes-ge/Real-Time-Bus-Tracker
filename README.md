@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Real-Time-Bus-Tracker
 This map animation project overlays a map with a marker icon that tracks the bus locations from MIT to Harvard. 
 Once the map was sourced from MapBox using an access token, the marker was created at the location of the MIT campus. 
